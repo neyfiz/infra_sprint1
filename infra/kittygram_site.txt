@@ -1,0 +1,5 @@
+IP: 62.84.122.14;
+name_taski: https://neyfiz.zapto.org/;
+name_kittygram: https://whyneyfiz.zapto.org/;
+login: Neyfiz;
+password: 2411;
